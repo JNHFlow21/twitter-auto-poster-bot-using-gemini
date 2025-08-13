@@ -1,0 +1,42 @@
+name: Auto Tweet Using AI
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # 北京 00:00
+    - cron: "30 17 * * *" # 北京 01:30
+    - cron: "0 19 * * *" # 北京 03:00
+    - cron: "30 20 * * *" # 北京 04:30
+    - cron: "0 22 * * *" # 北京 06:00
+    - cron: "30 23 * * *" # 北京 07:30
+    - cron: "0 1 * * *" # 北京 09:00
+    - cron: "30 2 * * *" # 北京 10:30
+    - cron: "0 4 * * *" # 北京 12:00
+    - cron: "30 5 * * *" # 北京 13:30
+    - cron: "0 7 * * *" # 北京 15:00
+    - cron: "30 8 * * *" # 北京 16:30
+    - cron: "0 10 * * *" # 北京 18:00
+    - cron: "30 11 * * *" # 北京 19:30
+    - cron: "0 13 * * *" # 北京 21:00
+    - cron: "30 14 * * *" # 北京 22:30
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Auto Tweet Using AI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Twitter bot
+        run: npm start

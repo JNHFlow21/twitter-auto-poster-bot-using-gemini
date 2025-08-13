@@ -1,0 +1,17 @@
+{
+  "name": "automate-twitter-posts-with-ai",
+  "version": "1.0.0",
+  "description": "Web3 中文科普推特 bot using Gemini and X API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^0.6.0",
+    "twitter-api-v2": "^1.16.1"
+  }
+}
+
+
