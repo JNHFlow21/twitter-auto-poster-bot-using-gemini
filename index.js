@@ -1,6 +1,5 @@
 // index.js
 // By JNHFlow21 - Gemini + Twitter 自动发帖中文科普版（动态主题，从 SECRETS.js 读取）
-// 已用官方 @google/genai 接口替代旧用法，确保能拿到 response.text
 
 const { GoogleGenAI } = require("@google/genai");
 const { TwitterApi } = require("twitter-api-v2");

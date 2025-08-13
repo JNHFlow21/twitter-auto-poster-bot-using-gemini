@@ -1,3 +1,4 @@
+可以在本地电脑终端复制输入下面的命令，测试gemini能否正常运行，但必须开vpn，且全局，或者配置下，让你的终端也走vpn代理，否则是国内的网络，访问不了
 ```
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" \
   -H 'Content-Type: application/json' \

@@ -1,11 +1,11 @@
-//? It is advisable to use environment variables instead of directly putting secrets in repository file but I have skipped this part as it would become complicated for many.
-//? Alternatively you can download the repository instead or forking and upload it from your account and keep it private, in that way, your secrets will not be exposed to the public.
+// 建议使用环境变量而不是直接在仓库文件中放置密钥，但我跳过了这部分，因为对许多人来说会变得复杂。
+// 或者，您可以下载仓库或fork它，然后从您的账户上传并保持私有，这样您的密钥就不会暴露给公众。
 
-const APP_KEY = "";
-const APP_SECRET = "";
-const ACCESS_TOKEN = "";
-const ACCESS_SECRET = "";
-const GEMINI_API_KEY = "";
+const APP_KEY = "你的twitter api key";
+const APP_SECRET = "你的twitter api secret";
+const ACCESS_TOKEN = "你的twitter access token";
+const ACCESS_SECRET = "你的twitter access secret";
+const GEMINI_API_KEY = "你的gemini api key";
 
 const SECRETS = {
   APP_KEY,
