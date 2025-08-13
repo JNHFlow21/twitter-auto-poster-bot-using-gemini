@@ -1,7 +1,5 @@
-# Automate your Twitter / X account to post tweets regularly using the power of AI
+# 使用AI的力量自动化您的Twitter/X账户，定期发布推文
 
-Everyone wants to become an influencer or at least be active on social media nowadays, but we know it's not easy to plan, create, schedule, and post content every day. It's a headache for most people, and many don't even start their journey to becoming an influencer because of these hurdles. But don't worry, you can use this repository to automate your Twitter/X account so that you only need to set it up once, and it will work every day without any intervention. You won't even need to think about content or scheduling. I have tried to write a beginner-friendly and easy to understand blog:
+如今每个人都想成为网红或在社交媒体上保持活跃，但我们知道每天规划、创作、安排和发布内容并不容易。这对大多数人来说都是个头疼的问题，许多人甚至因为这些障碍而无法开始成为网红的旅程。但别担心，您可以使用这个仓库来自动化您的Twitter/X账户，这样您只需要设置一次，它就会每天自动工作，无需任何干预。您甚至不需要考虑内容或安排。我尝试写了一篇对初学者友好且易于理解的博客：
 
-### [Check it out to understand how to set it up](https://blog.itsvg.in/ultimate-guide-to-automating-twitterx-posts-with-ai)
-
-[![GPT](https://github.com/VishwaGauravIn/twitter-auto-poster-bot-ai/assets/81325730/d84e72dd-2a1c-4ab9-be21-280920745163)](https://blog.itsvg.in/ultimate-guide-to-automating-twitterx-posts-with-ai)
+### [查看这里了解如何设置，必读，教程文章！！！](https://immense-cornet-074.notion.site/X-Twitter-bot-24e9cbb1c861801caef8d7b664ccbafc)
