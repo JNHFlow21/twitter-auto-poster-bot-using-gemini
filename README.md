@@ -4,4 +4,4 @@
 
 ### [查看这里了解如何设置，必读，教程文章！！！](https://immense-cornet-074.notion.site/X-Twitter-bot-24e9cbb1c861801caef8d7b664ccbafc)
 
-### 有任何问题可以联系我[X:](https://x.com/JNHFlow21)
+### 有任何问题可以联系我[X](https://x.com/JNHFlow21)
