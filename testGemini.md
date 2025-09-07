@@ -2,7 +2,7 @@
 ```
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" \
   -H 'Content-Type: application/json' \
-  -H 'X-goog-api-key: AIzaSyBt3qkdGnONgW7iErPhEYXzZEGr4ZBKqn0' \
+  -H 'X-goog-api-key: 你的google api key' \
   -X POST \
   -d '{
     "contents": [
